@@ -1,0 +1,6 @@
+[submodule "FunWithGitSubmodules-A"]
+	path = FunWithGitSubmodules-A
+	url = https://github.com/mizatch/FunWithGitSubmodules-A.git
+[submodule "FunWithGitSubmodules-B"]
+	path = FunWithGitSubmodules-B
+	url = https://github.com/mizatch/FunWithGitSubmodules-B.git
